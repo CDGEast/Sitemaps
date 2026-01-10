@@ -6,249 +6,1227 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>https://www.chesterdg.org.uk/</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <loc>https://www.chesterdg.org.uk/home</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.chesterdg.org.uk/home</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://www.chesterdg.org.uk/programme</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/contacts</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/practice-nights</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/towers</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/gallery</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/safeguarding</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/resources</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/resources/bell-restoration-fund</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/resources/brf-resources</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/resources/guild-archives</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/resources/guild-documents</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/resources/the-library</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.chesterdg.org.uk/resources/safeguarding</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/about-us</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/resources/the-library/periodicals</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.chesterdg.org.uk/resources/the-library/annual-reports</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.chesterdg.org.uk/resources/the-library/items-of-special-historical-interest</loc>
-  <lastmod>2025-12-18T12:46:58+00:00</lastmod>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.south.chesterdg.org.uk/home</loc>
-  <lastmod>2025-12-18T12:50:13+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>https://www.chesterdg.org.uk/resources/the-library/annual-reports</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.south.chesterdg.org.uk/programme</loc>
-  <lastmod>2025-12-18T12:50:13+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/aldford-st_john_bapt</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.south.chesterdg.org.uk/contacts</loc>
-  <lastmod>2025-12-18T12:50:13+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/backford-st_oswald</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.south.chesterdg.org.uk/practice-nights</loc>
-  <lastmod>2025-12-18T12:50:13+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/chester-old_st_marys</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.south.chesterdg.org.uk/towers</loc>
-  <lastmod>2025-12-18T12:50:13+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/chester-st_peter</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.south.chesterdg.org.uk/gallery</loc>
-  <lastmod>2025-12-18T12:50:13+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/chester-st_mary_without_walls</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.wirral.chesterdg.org.uk/home</loc>
-  <lastmod>2025-12-18T12:49:11+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/chester-cathedral</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.wirral.chesterdg.org.uk/programme</loc>
-  <lastmod>2025-12-18T12:49:11+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/christleton-st_james</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.wirral.chesterdg.org.uk/contacts</loc>
-  <lastmod>2025-12-18T12:49:11+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/dodleston-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.wirral.chesterdg.org.uk/practice-nights</loc>
-  <lastmod>2025-12-18T12:49:11+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/eccleston-st_mary_v</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.wirral.chesterdg.org.uk/towers</loc>
-  <lastmod>2025-12-18T12:49:11+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/farndon-st_chad</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.wirral.chesterdg.org.uk/gallery</loc>
-  <lastmod>2025-12-18T12:49:11+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/handley-all_saints</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.mid.chesterdg.org.uk/home</loc>
-  <lastmod>2025-12-18T12:48:37+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/hoole-all_saints</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.mid.chesterdg.org.uk/programme</loc>
-  <lastmod>2025-12-18T12:48:37+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/malpas-st_oswald</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.mid.chesterdg.org.uk/contacts</loc>
-  <lastmod>2025-12-18T12:48:37+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/pulford-st_mary_v</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.mid.chesterdg.org.uk/practice-nights</loc>
-  <lastmod>2025-12-18T12:48:37+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/tarporley-st_helen</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.mid.chesterdg.org.uk/towers</loc>
-  <lastmod>2025-12-18T12:48:37+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/tarvin-st_andrew</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.mid.chesterdg.org.uk/gallery</loc>
-  <lastmod>2025-12-18T12:48:37+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/tattenhall-st_alban</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chester.chesterdg.org.uk/home</loc>
-  <lastmod>2025-12-18T12:47:56+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/tilston-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chester.chesterdg.org.uk/programme</loc>
-  <lastmod>2025-12-18T12:47:56+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/tushingham-st_chad</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chester.chesterdg.org.uk/contacts</loc>
-  <lastmod>2025-12-18T12:47:56+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/waverton-st_peter</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chester.chesterdg.org.uk/practice-nights</loc>
-  <lastmod>2025-12-18T12:47:56+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bebington-st_andrew</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chester.chesterdg.org.uk/towers</loc>
-  <lastmod>2025-12-18T12:47:56+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bidston-st_oswald</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chester.chesterdg.org.uk/gallery</loc>
-  <lastmod>2025-12-18T12:47:56+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bromborough-st_barnabas</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.east.chesterdg.org.uk/</loc>
-  <lastmod>2025-12-18T12:44:47+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/burton-st_nicholas</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.east.chesterdg.org.uk/home</loc>
-  <lastmod>2025-12-18T12:44:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/capenhurst-holy_trinity</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.east.chesterdg.org.uk/programme</loc>
-  <lastmod>2025-12-18T12:44:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/eastham-st_mary_bv</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.east.chesterdg.org.uk/contacts</loc>
-  <lastmod>2025-12-18T12:44:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/heswall-st_peter</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.east.chesterdg.org.uk/practice-nights</loc>
-  <lastmod>2025-12-18T12:44:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/moreton-christ_church</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.east.chesterdg.org.uk/towers</loc>
-  <lastmod>2025-12-18T12:44:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/neston-st_mary-st_helen</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.east.chesterdg.org.uk/gallery</loc>
-  <lastmod>2025-12-18T12:44:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.chesterdg.org.uk/individual-towers/oxton-st_saviour</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/port_sunlight-christ_church</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/rock_ferry-st_peter</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/shotwick-st_michael</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/thurstaston-st_bartholomew</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/upton_by_birkenhead-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wallasey-st_hilary_of_poitiers</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wallasey-st_nicholas</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wallasey-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/west_kirby-st_bridget</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/woodchurch-holy_cross</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bosley-st_mary_v</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bowdon-st_mary_v</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bredbury-st_mark</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/burbage-christ_church</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/chapel_en_le_frith-st_thomas_a_becket</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/cheadle-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/chelford-st_john_ev</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/disley-st_mary_v</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/dunham_massey-st_margaret</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/fairfield-st_peter</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/gawsworth-st_james</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/hayfield-st_matthew</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/hyde-st_george</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/knutsford-st_john_bapt</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/macclesfield-christ_church</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/macclesfield-st_michael-all_angels</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/macclesfield-st_peter</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/marple-all_saints</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/mobberley-st_wilfrid</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/mottram-st_michael</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/nether_alderley-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/new_mills-st_george</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/norbury-st_thomas</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/pott_shrigley-st_christopher</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/poynton-st_george</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/prestbury-st_peter</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/rostherne-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/stalybridge-holy_trinity</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/stalybridge-st_paul</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/stockport-st_george</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/stockport-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/sutton-st_james</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/taxal-st_james</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wilmslow-st_bartholomew</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/daresbury-all_saints</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/davenham-st_wilfrid</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/frodsham-st_lawrence</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/grappenhall-st_wilfrid</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/great_budworth-st_mary-all_saints</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/hartford-st_john_bapt</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/acton-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/lower_peover-st_oswald</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/lymm-st_mary_v</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/middlewich-st_michael-all_angels</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/over-st_chad</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/over_peover-st_lawrence</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/runcorn-all_saints</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/stockton_heath-st_thomas</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/stretton-st_matthew</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/thornton_le_moors-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/warburton-st_werburgh</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/weaverham-st_mary_v</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/northwich-st_helen</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/alsager-christ_church</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/astbury-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/audlem-st_jamest_gt</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/barthomley-st_bertoline</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/brereton-st_oswald</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bunbury-st_boniface</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/church_lawton-all_saints</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/church_minshull-st_bartholomew</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/congleton-st_peter</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/crewe-christ_church</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/eaton-christ_church</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/goostrey-st_luke</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/holmes_chapel-st_luke</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/marbury-st_michael</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/nantwich-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/sandbach-st_mary</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/swettenham-st_peter</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/warmingham-st_leonard</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wistaston-st_mary_v</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wrenbury-st_margaret</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wybunbury-wybunbury_tower</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/aldford-st_john_bapt/d01</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/backford-st_oswald/d02</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/chester-old_st_marys/d03</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/chester-st_peter/d04</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/chester-st_mary_without_walls/d05</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/chester-cathedral/d06</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/christleton-st_james/d07</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/dodleston-st_mary/d08</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/eccleston-st_mary_v/d09</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/farndon-st_chad/d10</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/handley-all_saints/d11</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/hoole-all_saints/d12</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/malpas-st_oswald/d13</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/pulford-st_mary_v/d14</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/tarporley-st_helen/d15</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/tarvin-st_andrew/d16</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/tattenhall-st_alban/d17</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/tilston-st_mary/d18</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/tushingham-st_chad/d19</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/waverton-st_peter/d20</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bebington-st_andrew/d96</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bidston-st_oswald/d97</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bromborough-st_barnabas/d98</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/burton-st_nicholas/d99</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/capenhurst-holy_trinity/d100</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/eastham-st_mary_bv/d101</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/heswall-st_peter/d102</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/moreton-christ_church/d103</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/oxton-st_saviour/d105</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/port_sunlight-christ_church/d106</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/rock_ferry-st_peter/d107</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/shotwick-st_michael/d108</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/thurstaston-st_bartholomew/d109</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/upton_by_birkenhead-st_mary/d110</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wallasey-st_hilary_of_poitiers/d111</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wallasey-st_nicholas/d112</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wallasey-st_mary/d113</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/west_kirby-st_bridget/d114</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/woodchurch-holy_cross/d115</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bosley-st_mary_v/d21</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bowdon-st_mary_v/d22</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bredbury-st_mark/d23</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/burbage-christ_church/d24</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/chapel_en_le_frith-st_thomas_a_becket/d25</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/cheadle-st_mary/d26</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/chelford-st_john_ev/d27</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/disley-st_mary_v/d28</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/dunham_massey-st_margaret/d29</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/fairfield-st_peter/d30</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/gawsworth-st_james/d31</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/hayfield-st_matthew/d32</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/hyde-st_george/d33</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/knutsford-st_john_bapt/d34</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/macclesfield-christ_church/d35</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/macclesfield-st_michael-all_angels/d36</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/macclesfield-st_peter/d37</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/marple-all_saints/d38</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/mobberley-st_wilfrid/d39</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/mottram-st_michael/d40</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/nether_alderley-st_mary/d41</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/new_mills-st_george/d42</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/norbury-st_thomas/d43</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/pott_shrigley-st_christopher/d44</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/poynton-st_george/d45</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/prestbury-st_peter/d46</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/rostherne-st_mary/d47</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/stalybridge-holy_trinity/d48</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/stalybridge-st_paul/d49</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/stockport-st_george/d50</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/stockport-st_mary/d51</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/sutton-st_james/d52</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/taxal-st_james/d53</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wilmslow-st_bartholomew/d54</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/daresbury-all_saints/d55</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/davenham-st_wilfrid/d56</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/frodsham-st_lawrence/d57</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/grappenhall-st_wilfrid/d58</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/great_budworth-st_mary-all_saints/d59</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/hartford-st_john_bapt/d60</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/acton-st_mary/D74</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/lower_peover-st_oswald/d62</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/lymm-st_mary_v/d63</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/middlewich-st_michael-all_angels/d64</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/over-st_chad/d65</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/over_peover-st_lawrence/d66</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/runcorn-all_saints/d67</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/stockton_heath-st_thomas/d68</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/stretton-st_matthew/d69</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/thornton_le_moors-st_mary/d70</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/warburton-st_werburgh/d71</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/weaverham-st_mary_v/d72</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/northwich-st_helen/d73</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/alsager-christ_church/d75</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/astbury-st_mary/d76</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/audlem-st_jamest_gt/d77</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/barthomley-st_bertoline/d78</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/brereton-st_oswald/d79</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/bunbury-st_boniface/d80</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/church_lawton-all_saints/d81</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/church_minshull-st_bartholomew/d82</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/congleton-st_peter/d83</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/crewe-christ_church/d84</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/eaton-christ_church/d85</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/goostrey-st_luke/d86</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/holmes_chapel-st_luke/d87</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/nantwich-st_mary/d89</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/sandbach-st_mary/d90</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/swettenham-st_peter/d91</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/warmingham-st_leonard/d92</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wistaston-st_mary_v/d93</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wrenbury-st_margaret/d94</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.chesterdg.org.uk/individual-towers/wybunbury-wybunbury_tower/d95</loc>
+  <lastmod>2026-01-10T09:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
